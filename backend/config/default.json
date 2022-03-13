@@ -1,0 +1,11 @@
+{
+  "DB": {
+    "host": "",
+    "username": "root",
+    "password": "admin1234",
+    "port": 3306,
+    "database": "etsy_schema"
+  },
+  "jwtPrivateKey": "1234",
+  "port": "3900"
+}
